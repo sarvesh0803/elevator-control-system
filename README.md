@@ -1,8 +1,10 @@
 # Elevator Control System
 
-A general elevator runs on button controlled and pre-programmed control, which remains proprietary to each company. In this project we implemented an control system which uses IR based sensor for floor detection and sends feedback to central processing unit which also takes input from buttons across floors to navigate the lift in given direction. 
+A general elevator runs on button controlled and preprogrammed control, which remains proprietary to each company. In this project we implemented an control system which uses IR based sensor for floor detection and sends feedback to central processing unit which also takes input from buttons across floors to navigate the lift in given direction. 
 
 We also constructed a working lift model to implement and demonstrate the control system. To implement lift model, we used a DC motor whose speed and direction of rotation can be easily changed. Interfacing of DC motor and microcontroller was done using a motor driver. 
+
+Video of the working demo can be seen [here](https://drive.google.com/file/d/1k9Tx8WTiA6ua52XaRxQlotEdZsSXp18s/view?usp=sharing).
 
 ## Components
 
@@ -23,8 +25,7 @@ We also constructed a working lift model to implement and demonstrate the contro
 
 ## Code
 
-The arduino code is the brain of the project. It interfaces arduino with all the components and is responsible for the smooth functioning of the system. 
-
+The arduino code is the brain of the project. It interfaces Arduino with all the components and is responsible for the smooth functioning of the system. 
 
 
 ![alt text](https://github.com/sarvesh0803/elevator-control-system/blob/master/arduino%20block%20diagram.jpg "Schematic Diagram of Elevator Control System")
@@ -39,7 +40,6 @@ The arduino code is the brain of the project. It interfaces arduino with all the
 
 #### Circuit diagram of Arduino and IR sensor section:
 ![alt text](https://github.com/sarvesh0803/elevator-control-system/blob/master/IR%20sensor%20circuit.png "Circuit diagram of Arduino and IR sensor section")
-
 
 ## Full report
 The full report of the project can be found [here](https://docs.google.com/document/d/1aA0ZLCcFmAyb32sND_6Gx3rNGVcZOni7nwd56n91Dns/edit?usp=sharing)
