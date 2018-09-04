@@ -23,13 +23,25 @@ We also constructed a working lift model to implement and demonstrate the contro
 
 ## Code
 
-The arduino code is the brain of the project. It interfaces with all the components and is responsible for the smooth functioning of the system. 
+The arduino code is the brain of the project. It interfaces arduino with all the components and is responsible for the smooth functioning of the system. 
 
 
 
-![alt text](https://github.com/sarvesh0803/elevator-control-system/blob/master/arduino%20block%20diagram.jpg)
+![alt text](https://github.com/sarvesh0803/elevator-control-system/blob/master/arduino%20block%20diagram.jpg "Schematic Diagram of Elevator Control System")
+
+## Circuit diagrams
+
+
+#### Circuit diagram of Arduino and motor section:
+![alt text](https://github.com/sarvesh0803/elevator-control-system/blob/master/motor%20circuit.png "Circuit diagram of Arduino and motor section")
+
+
+
+#### Circuit diagram of Arduino and IR sensor section:
+![alt text](https://github.com/sarvesh0803/elevator-control-system/blob/master/IR%20sensor%20circuit.png "Circuit diagram of Arduino and IR sensor section")
+
 
 ## Full report
 The full report of the project can be found [here](https://docs.google.com/document/d/1aA0ZLCcFmAyb32sND_6Gx3rNGVcZOni7nwd56n91Dns/edit?usp=sharing)
 
-The circuit diagrams are also present in the report.
+Some images of the working prototype are also present in the report.
