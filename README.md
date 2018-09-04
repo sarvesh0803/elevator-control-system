@@ -27,7 +27,7 @@ The arduino code is the brain of the project. It interfaces with all the compone
 
 
 
-![alt text]()
+![alt text](https://github.com/sarvesh0803/elevator-control-system/blob/master/arduino%20block%20diagram.jpg)
 
 ## Full report
 The full report of the project can be found [here](https://docs.google.com/document/d/1aA0ZLCcFmAyb32sND_6Gx3rNGVcZOni7nwd56n91Dns/edit?usp=sharing)
